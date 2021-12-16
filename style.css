@@ -1,0 +1,11 @@
+.one{
+    margin-top: 120px;
+    background-image: url("img/5.PNG");
+    background-repeat: no-repeat;
+    background-size: calc(100%);
+    
+}
+.kuj{
+    color: Green;
+    padding: 30px;
+}
